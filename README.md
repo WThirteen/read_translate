@@ -15,8 +15,8 @@
 具体使用可看 [whisper](https://github.com/openai/whisper)   
 
 -------------------------------------
-翻译使用到hugging face的翻译模型 opus-mt-zh-en
-模型文件可从hugging face下载  [opus-mt-zh-en](https://github.com/openai/whisper)   
+翻译使用到hugging face的翻译模型 opus-mt-zh-en  
+模型文件可从hugging face下载  [opus-mt-zh-en]([https://github.com/openai/whisper](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/tree/main))   
 或者在阿里云盘中下载 
 
 # 配置环境
