@@ -1,0 +1,4 @@
+openai_whisper==20231117
+pyttsx3==2.90
+SpeechRecognition==3.10.1
+transformers==4.39.3
