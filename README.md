@@ -3,7 +3,7 @@
 <h4 align="center">
     <p>
         <a href="https://github.com/WThirteen/read_translate/blob/master/README.md">中文</a> |
-        <a href="https://github.com/WThirteen/ChatterBot/blob/master/README_en.md">English</a>      
+        <a href="https://github.com/WThirteen/read_translate/blob/master/README_en.md">English</a>      
     <p>
 </h4>
 
@@ -16,8 +16,11 @@
 
 -------------------------------------
 翻译使用到hugging face的翻译模型 opus-mt-zh-en  
-模型文件可从hugging face下载  [opus-mt-zh-en]([https://github.com/openai/whisper](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/tree/main))   
+模型文件可从hugging face下载  [opus-mt-zh-en](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/tree/main)   
 或者在阿里云盘中下载 
+https://www.alipan.com/s/DMu9ettGzHE
+提取码: o1y2
+
 
 # 配置环境
 * 创建虚拟环境
