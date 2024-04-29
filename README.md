@@ -10,9 +10,14 @@
 # 原理
 * 读取中文语句，语音识别。识别为文本。
 * 将中文文本翻译为英文
+-------------------------------------
+语言识别使用到openai的whisper   
+具体使用可看 [whisper](https://github.com/openai/whisper)   
 
-语言识别使用到openai的whisper  
+-------------------------------------
 翻译使用到hugging face的翻译模型 opus-mt-zh-en
+模型文件可从hugging face下载  [opus-mt-zh-en](https://github.com/openai/whisper)   
+或者在阿里云盘中下载 
 
 # 配置环境
 * 创建虚拟环境
