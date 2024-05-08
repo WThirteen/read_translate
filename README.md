@@ -46,3 +46,11 @@ activate my_env
 ```
 python main.py
 ```
+# 新增ui
+* 运行
+```
+python main_ui.py
+```
+## ui页面如下  
+![ui](https://github.com/WThirteen/read_translate/assets/100677199/66a97e24-6560-44db-b082-5b235288f4a4)
+
