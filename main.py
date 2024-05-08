@@ -4,11 +4,16 @@ import os
 
 def Run():
     tokenizer,model = load_model()
-    text = takeCommand()
-    decoded = translate(text,tokenizer,model)
-    print('翻译:')
-    print(decoded)
+    seq = 1
+    while True:
+        print(str(seq)+':')
+        text = takeCommand()
+        decoded = translate(text,tokenizer,model)
+        print('翻译:')
+        print(decoded)
+        seq =  seq + 1
+        os.remove("temp_file.wav")
 
 if __name__ == "__main__":
     Run()
-    os.remove("temp_file.wav")
+    
