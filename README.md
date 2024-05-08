@@ -17,9 +17,10 @@
 -------------------------------------
 翻译使用到hugging face的翻译模型 opus-mt-zh-en  
 模型文件可从hugging face下载  [opus-mt-zh-en](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en/tree/main)   
-或者在阿里云盘中下载 
-https://www.alipan.com/s/DMu9ettGzHE
-提取码: o1y2
+或者在百度网盘中下载 
+链接: https://pan.baidu.com/s/1eE5fVBfGSwEZeAeoIerjgg?pwd=eqrn  
+提取码: eqrn 
+
 
 
 # 配置环境
